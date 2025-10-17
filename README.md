@@ -1,4 +1,4 @@
-Blockchain Assignment 2 — Auctions in Solidity
+## Blockchain Assignment 2 — Auctions in Solidity
 
 A small Solidity project showcasing four classic auction mechanisms implemented as smart contracts:
 
